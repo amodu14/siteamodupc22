@@ -1,0 +1,36 @@
+body {
+    
+}
+
+#banner {
+        width: 100%;
+        height: 30%;
+       
+
+.principal {
+    background: #303030
+    padding: 30px;
+        
+}
+
+.titulo-principal {
+    padding-left: 50px;
+    color: #FFE4E1;
+    }
+
+
+em strong {
+    color: rgb(238, 26, 37);
+}
+
+
+.pilares{
+    background: #30d9e6;
+    padding: 20px;
+}
+
+#4pilares{
+    width: 500;
+    height: 500;
+} 
+
